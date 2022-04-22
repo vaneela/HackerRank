@@ -24,5 +24,5 @@ int main()
     }
     cout << maxid << endl;
 
-    return 0;
+
 }
